@@ -30,14 +30,7 @@ export default function Portfolio() {
           <h2 className="text-2xl font-semibold mb-4 border-b pb-2 text-black">Projetos</h2>
           <div className="space-y-6">
             <div className="border p-4 rounded-xl shadow-sm">
-              <h3 className="text-xl font-bold mb-1 text-black">Conversor de Moeda</h3>
-              <p className="mb-2">Aplicativo simples que converte moedas em tempo real utilizando API pública com React.</p>
-              <img 
-                src="/demo-conversor.gif" 
-                alt="Demonstração do Conversor" 
-                className="w-full rounded-lg shadow-sm border mb-2"
-              />
-              <p className="text-sm">Tecnologias: React, TailwindCSS, Fetch API</p>
+             
             </div>
 
             <div className="border p-4 rounded-xl shadow-sm">
