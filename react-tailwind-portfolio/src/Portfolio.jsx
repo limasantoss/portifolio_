@@ -14,7 +14,7 @@ export default function Portfolio() {
             alt="Foto de perfil"
             className="w-[270px] h-[270px] rounded-full mx-auto mb-4 object-cover border-2 border-gray-300 shadow-md"
           />
-          <h1 className="text-3xl font-bold text-blue-800 mb-2">Igor Monteiro</h1>
+          <h1 className="text-3xl font-bold text-blue-800 mb-2">Igor Lima</h1>
           <div className="flex justify-center space-x-6 text-blue-700 text-sm mb-4">
             <a href="mailto:igorslcontact@gmail.com" className="hover:underline text-blue-700 cursor-pointer" title="Clique para entrar em contato por e-mail">📧 igorslcontact@gmail.com</a>
             <a href="https://www.linkedin.com/in/igorsantoslima/" target="_blank" rel="noopener noreferrer" className="hover:underline">LinkedIn</a>
