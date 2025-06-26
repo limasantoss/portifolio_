@@ -46,7 +46,7 @@ export default function Portfolio() {
                 Projeto Final – Programa Capacita Brasil / C-Jovem – Trilha Ciência de Dados
               </p>
               <p className="text-justify mb-2">
-                Este projeto foi desenvolvido como atividade final do programa Capacita Brasil / C-Jovem, fruto da parceria entre a Universidade Estadual do Ceará (UECE) e o Ministério da Ciência, Tecnologia e Inovação.
+                Este projeto foi desenvolvido como atividade final do programa Capacita Brasil / C-Jovem, fruto da parceria entre a <i>Universidade Estadual do Ceará (UECE)</i> e o <i>Ministério da Ciência, Tecnologia e Inovação.</i>
               </p>
               <p className="text-justify mb-2">
                 A solução consiste em uma plataforma de análise de dados voltada ao setor varejista, construída com Python e Streamlit, utilizando dados reais da empresa Olist. A proposta central é fornecer insights estratégicos sobre desempenho de vendas, comportamento do consumidor e logística regional.
