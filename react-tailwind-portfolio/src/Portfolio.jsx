@@ -62,7 +62,7 @@ export default function Portfolio() {
                 <li>Aplicação prática de fundamentos estatísticos e de machine learning</li>
               </ul>
               <p className="text-sm mb-4">
-                Tecnologias: Python, Streamlit, Pandas, Matplotlib, NLTK, Scikit-learn
+                Tecnologias: Python, Pandas, NumPy, Matplotlib, Plotly, Streamlit, Jupyter Notebook, CSV (Olist Dataset), Chatbot com NLP, requirements.txt (gerenciador de dependências).
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 <a href="/bot.png" target="_blank">
