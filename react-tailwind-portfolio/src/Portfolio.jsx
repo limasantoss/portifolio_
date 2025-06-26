@@ -30,10 +30,6 @@ export default function Portfolio() {
           <h2 className="text-2xl font-semibold mb-4 border-b pb-2 text-black">Projetos</h2>
           <div className="space-y-6">
             <div className="border p-4 rounded-xl shadow-sm">
-             
-            </div>
-
-            <div className="border p-4 rounded-xl shadow-sm">
               <h3 className="text-xl font-bold mb-1 text-black">Plataforma de Análise Inteligente para E-commerce</h3>
               <p className="mb-2">
                 Projeto Final – Programa Capacita Brasil / C-Jovem – Trilha Ciência de Dados
