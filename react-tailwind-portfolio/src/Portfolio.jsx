@@ -17,11 +17,11 @@ export default function Portfolio() {
           <h1 className="text-3xl font-bold text-blue-800 mb-2">Igor Lima</h1>
           <div className="flex justify-center space-x-6 text-blue-700 text-sm mb-4">
             <a href="mailto:igorslcontact@gmail.com" className="hover:underline text-blue-700 cursor-pointer" title="Clique para entrar em contato por e-mail">📧 igorslcontact@gmail.com</a>
-            <a href="https://www.linkedin.com/in/igor/" target="_blank" rel="noopener noreferrer" className="hover:underline">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/igorsantoslima/" target="_blank" rel="noopener noreferrer" className="hover:underline">LinkedIn</a>
             <a href="https://github.com/limasantoss" target="_blank" rel="noopener noreferrer" className="hover:underline">GitHub</a>
           </div>
           <p className="text-justify px-4">
-            Estudante de Análise e Desenvolvimento de Sistemas (2º período), com foco em <b>desenvolvimento web e Ciência de Dados.</b> Valorizo a prática e estou sempre em busca de aprender resolvendo problemas reais com tecnologia.
+            Estudante de Análise e Desenvolvimento de Sistemas (3º período), com foco em <b>desenvolvimento web e Ciência de Dados.</b> Valorizo a prática e estou sempre em busca de aprender resolvendo problemas reais com tecnologia.
           </p>
         </aside>
 
